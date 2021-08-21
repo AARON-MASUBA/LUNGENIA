@@ -7,4 +7,6 @@ A Watson AI powered tool for detection, exposure detection and susceptibility of
 
 *The image above shows the claims reported and the status of compensation to the silica exposed workforce by companies in related companies in Michigan alone.*
 
+https://github.com/AARON-MASUBA/LUNGENIA.git
+
 
