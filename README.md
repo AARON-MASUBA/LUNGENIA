@@ -1,3 +1,4 @@
+![Silica Concentrate](https://user-images.githubusercontent.com/89135517/130333620-5a1c32b8-107f-437d-8954-61bdf3312d46.PNG)
 # LUNGENIA
 A Watson AI powered tool for detection, exposure detection and susceptibility of workforce and people in occupational hazardous risks associated with silica that affects the lungs causing silicosis and lung cancer
 ![California](https://user-images.githubusercontent.com/89135517/130332407-3290dc22-263a-455b-ab97-b31320112650.PNG)
@@ -9,4 +10,9 @@ A Watson AI powered tool for detection, exposure detection and susceptibility of
 
 https://github.com/AARON-MASUBA/LUNGENIA.git
 
+*The Watson Studio tool refines the data in usin a powerful Auto AI tool which creates meaningful visual illustrations that can be used by decision makers as well as policy personel to optimise exposure*
+
+![Iron concentrate](https://user-images.githubusercontent.com/89135517/130333675-34b0e502-4a76-4018-b666-678945873a30.PNG)
+
+*This image aboves shows a sumerised profile of Iron concentrate and from the entire data we can easily draw relationships between Iron concentrations and Silica concentrations*
 
