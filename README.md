@@ -1,5 +1,7 @@
 # LUNGENIA
 A Watson AI powered tool for detection, exposure detection and susceptibility of workforce and people in occupational hazardous risks associated with silica that affects the lungs causing silicosis and lung cancer
+## PROBLEM
+Every year, about 2 million people are at risks of occupation exposure to silicon dioxide which is produced as a result of manufacturing, mining, heavy constructions, and many dust related activities. The changing climatic conditions that are giving rise to increase in sand storms for example in China also exposes the populations further and in Low and middle income countries where they are focusing on industrializations, the populations stand at high risks of taking in high amounts of silica. Exposure to free crystalline silicon dioxide or silica leads to an incurable condition known as Silicosis which begins with difficulty in breathing followed by other mycobacterial diseases and lung cancer. This therefore makes it important to leverage the usage of data and technology in terms of low cost IoT devices to detect, optimize and susceptibly mitigate the silica exposure to work force and habitants living in places that are at extremes of silica dust pollution. Such workforce can be either in mines, manufacturing areas, construction, sand blasting, or even areas that are at risks of sand storms.
 
 https://youtu.be/VGlStER1904
 
@@ -19,3 +21,6 @@ https://youtu.be/VGlStER1904
 
 *This image aboves shows a sumerised profile of Iron concentrate and from the entire data we can easily draw relationships between Iron concentrations and Silica concentrations*
 
+## PROJECT ROADMAP
+
+![Road Map](https://user-images.githubusercontent.com/89135517/130338267-e73b8e18-6a04-4429-9989-af3da8f73db6.PNG)
